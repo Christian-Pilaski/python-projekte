@@ -15,6 +15,7 @@
 - Python 3
 - VS Code
 - Git / GitHub
+- C# (Grundlagen)
 
 ## Status
 Umschulung läuft seit Februar 2026 – Inhalte werden laufend ergänzt.
