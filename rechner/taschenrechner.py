@@ -49,14 +49,18 @@ def division(a,b):
         c= None
     return c
         
-
+def eingabe_float(eingabe):
+    while True:
+        try:
+            return float(input(eingabe))
+        except ValueError:
+            print("Keine gültige Eingabe, Probiere es erneut.")
 
 if  __name__== "__main__": 
     while running:
-        eins = float(input("1.Zahl: "))
+        eins = eingabe_float("1.Zahl: ")
         operator = input("Bitte wähle deine Rechenart(+-*/): ")
-        zwei = float(input("2.Zahl: "))
-        
+        zwei = eingabe_float("2.Zahl: ")
         if operator == "+":
             print("Addition: ", addition(eins,zwei))
         elif operator == "-":
