@@ -4,15 +4,15 @@
 
 ## Themen
 
+### Grundlagen
+- **Listenfunktionen** - Sammlung von diversen Listenfunktionen
+
 ### Sortieralgorithmen
 - **Bubblesort** – Vergleichsbasiertes Sortierverfahren, Zeitkomplexität O(n²)
 - **Insertionsort** – Einfügeverfahren, effizient bei kleinen oder fast sortierten Listen
 
-### Taschenrechner
+### Rechner
 - **Taschenrechner** – Konsolenprogramm mit den vier Grundrechenarten, Fehlerbehandlung und Eingabevalidierung
-
-### Dateiverwaltung
-- CSV- und JSON-Verarbeitung mit Python
 
 ## Technologien
 - Python 3
