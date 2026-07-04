@@ -14,6 +14,9 @@
 ### Rechner
 - **Taschenrechner** – Konsolenprogramm mit den vier Grundrechenarten, Fehlerbehandlung und Eingabevalidierung
 
+### Spiele
+- **Zahlenraten** - Zahlenratespiel mit zufällig generierten Zahlen
+
 ## Technologien
 - Python 3
 - VS Code
