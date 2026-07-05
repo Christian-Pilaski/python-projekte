@@ -7,6 +7,9 @@
 ### Grundlagen
 - **Listenfunktionen** - Sammlung von diversen Listenfunktionen
 
+### Verwaltung
+- **kontaktverwaltung** - Konsolenprogramm zum Anlegen, Ändern, Suchen und Löschen von Kontakten mit JSON-Datenspeicherung
+
 ### Sortieralgorithmen
 - **Bubblesort** – Vergleichsbasiertes Sortierverfahren, Zeitkomplexität O(n²)
 - **Insertionsort** – Einfügeverfahren, effizient bei kleinen oder fast sortierten Listen
